@@ -3,7 +3,7 @@ name: Bug report likun
 about: Create a report to help us improve
 title: "[BUG] "
 labels: ''
-assignees: 'lik0914'
+assignees: 'lik0914,aaaaaa'
 
 ---
 
