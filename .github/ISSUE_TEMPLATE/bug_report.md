@@ -4,7 +4,7 @@ about: Create a report to help us improve
 title: "[BUG] "
 labels: ''
 assignees: 'lik0914,xiongjiamu'
-milestone: '测试'
+milestones: '测试'
 ---
 
 <!-- Here is for bug reports ONLY! 
