@@ -1,5 +1,5 @@
 
-![moe](人工智能.pg)
+![moe](人工智能.png)
 # test
 likun test
 
