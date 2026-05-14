@@ -16,6 +16,3 @@ pc test
 master 提交 #8 关闭issue
 
 22.12.08-branch 分支 关闭 issue fix #8
-
-
-Test fork 重复创建 pr
